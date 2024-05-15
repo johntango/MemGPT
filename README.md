@@ -1,4 +1,4 @@
-# JRW Updates
+# JRW Updates 5/15/24
 
 git clone https://github.com/cpacker/MemGPT.git
 pip install -e .
